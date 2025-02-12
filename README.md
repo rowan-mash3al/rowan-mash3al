@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rowan-mash3al
-- 👀 I’m interested in Pharmaceutical science, Neuroscience and Bioinformatics
+- 👀 I’m interested in Pharmaceutical science, Neuroscience, Multi-omics and Bioinformatics
 - 🌱 I’m currently learning Bioinformatics and Machine learning
 - 💞️ I’m looking to collaborate on Multi-omics integration projects
 - 📫 How to reach me ...
